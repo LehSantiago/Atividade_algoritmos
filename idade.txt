@@ -1,0 +1,6 @@
+-Digitar a idade;
+-Verificar a idade;
+-Se a idade for menor que 16 anos, mostrar "voto não é permitido";
+-Se a idade estiver entre 16 e 17 anos, mostrar "voto é opcional";
+-Se a idade for maior que 18 anos, mostrar "voto é obrigatório";
+-Se a idade for maior que 70 anos, mostrar "voto é opcional";
